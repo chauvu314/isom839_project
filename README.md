@@ -430,8 +430,9 @@ streamlit run app.py
 2. Explain the prescriptive objective and decision variable  
 3. Demonstrate CSV upload and parameter configuration  
 4. Run the optimization model  
-5. Interpret the Summary and Decision Table outputs  
-
+5. Interpret the Summary and Decision Table outputs
+   
+Link: https://www.loom.com/share/d7c98151227040d5b715ef867fd863bf
 ---
 
 ## Future Enhancements
