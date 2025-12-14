@@ -252,6 +252,7 @@ The optimizer selects prices that balance revenue maximization with adherence to
 ---
 
 ## App Features
+Link APP: https://isom839project-ebysau75c5isizc4x2ad8a.streamlit.app
 
 ### Data Upload
 The CSV file must include the following **aggregated** fields:
